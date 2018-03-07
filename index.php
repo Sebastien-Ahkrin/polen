@@ -45,14 +45,11 @@
 
 <div class="container-fluid link-box">
     <h2 class="center-align content">Numérique</h2>
-
-
-
     <div class="container content">
         <div class="row">
-		    <p>
-              Lozère Développement accompagne à l’appropriation des usages professionnels du numérique qui impacte toutes les organisations. Elle contribue à animer notamment le réseau de tiers lieux dédiés aux nouvelles formes de travail et de collaboration, au télétravail et au coworking
-		    </p>
+	    <p>
+            	Lozère Développement accompagne à l’appropriation des usages professionnels du numérique qui impacte toutes les organisations. Elle contribue à animer notamment le réseau de tiers lieux dédiés aux nouvelles formes de travail et de collaboration, au télétravail et au coworking
+	    </p>
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
                 <!-- Container Image 1 -->
                 <img class="img-fluid link-img" src="public/images/polen-mini.jpg" alt="img1">
@@ -83,9 +80,9 @@
     <h2 class="center-align content">Agroalimentaire</h2>
     <div class="container content">
         <div class="row">
-		    <p class="white-text">
-                Lozère Développement agît pour développer en Lozère les activités de transformation et de commercialisation des produits agricoles. Elle peut notamment appuyer les dynamiques collectives initiées par les acteurs de cette filière.
-		    </p>
+	    <p class="white-text">
+            	Lozère Développement agît pour développer en Lozère les activités de transformation et de commercialisation des produits agricoles. Elle peut notamment appuyer les dynamiques collectives initiées par les acteurs de cette filière.
+	    </p>
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
                 <!-- Container texte -->
                 <p class="white-text">
@@ -98,7 +95,7 @@
                     <img class="img-fluid link-img" src="./public/images/plaisirauthentique.png" alt="img">
                 </a>
             </div>
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+	    <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
                 <!-- Container image -->
                 <a href="http://plaisirsauthentiques.com/"><!-- http://via.placeholder.com/350x200 -->
                     <img class="img-fluid link-img" src="./public/images/delozere.png" alt="img">
